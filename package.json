@@ -1,0 +1,19 @@
+{
+  "name": "luad",
+  "version": "1.0.0",
+  "description": "LuaDec for nodejs",
+  "main": "bin\load",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a9/luad.git"
+  },
+  "author": "a9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a9/luad/issues"
+  },
+  "homepage": "https://github.com/a9/luad#readme"
+}
