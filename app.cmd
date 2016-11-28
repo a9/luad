@@ -1,3 +1,3 @@
 @echo off
-"%~dp0node.exe" "%~dp0app.js" %*
+"%~dp0\bin\node.exe" "%~dp0\bin\luad" %*
 @pause
